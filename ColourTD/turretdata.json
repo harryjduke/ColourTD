@@ -1,0 +1,31 @@
+{
+	"Turrets": {
+		"Cannon": {
+			"Range": 150,
+			"FireRate": 0.2,
+			"Damage": 10,
+			"ProjectileSpeed": 1000,
+			"Cost":5,
+			"BarrelType": "A",
+			"BulletType": "A"
+		},
+		"MachineGun": {
+			"Range": 100,
+			"FireRate": 0.02,
+			"Damage": 2,
+			"ProjectileSpeed": 1000,
+			"Cost":10,
+			"BarrelType": "D",
+			"BulletType": "B"
+		},
+		"RPG": {
+			"Range": 200,
+			"FireRate": 1,
+			"Damage": 60,
+			"ProjectileSpeed": 300,
+			"Cost":15,
+			"BarrelType": "B",
+			"BulletType": "D"
+		}
+	}
+}
